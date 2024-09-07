@@ -29,8 +29,8 @@ To get the bot up and running on your own machine, follow these steps:
 
 1. **Clone the Repository:**
   ```
-   git clone https://github.com/your-username/experiments-discordpy.git
-   cd experiments-discordpy
+  git clone https://github.com/your-username/experiments-discordpy.git
+  cd experiments-discordpy
   ```
 2. **Create and Activate a Virtual Environment (optional but recommended):**
   ```
