@@ -57,7 +57,7 @@ To get the bot up and running on your own machine, follow these steps:
   DISCORD_TOKEN=your-bot-token-here
   ```
 
-5. **Run the bot (Ensure you have ACTIVATED the Virtual Environment if you did [Step 2](2.):**
+5. **Run the bot (Ensure you have ACTIVATED the Virtual Environment if you did Step 2):**
   ```
   python bot/main.py
   ```
