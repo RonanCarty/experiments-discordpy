@@ -17,9 +17,9 @@ Welcome to the **Experiments Discord Bot** project! This bot, named "Experiments
 
 ## Features
 
-The bot is currently equipped with a range of features, including but not limited to:
+The bot is currently equipped with a range of features which you can use to help you build your own Discord bot, including but not limited to:
 
-- N/A
+- Syncing
 
 These features are constantly evolving as new experiments and tests are conducted.
 
@@ -61,7 +61,7 @@ To get the bot up and running on your own machine, follow these steps:
 
 ## Usage
 
-This bot is intended for experimentation and testing. You can modify the code to add new commands, events, or integrations. Check the `main.py` file and other files in the repository to see how existing features are implemented.
+This bot is intended for experimentation and testing. You can modify the code to add new commands, events, or integrations. Check the `main.py` file and other files in the repository to see how existing features are implemented. The main purpose of the code being open sourced is for beginner discord.py developers to understand how certain things may work. Everything in the main branch will be in full working order, other branches could be broken!
 
 ## License
 
