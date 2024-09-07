@@ -52,10 +52,7 @@ To get the bot up and running on your own machine, follow these steps:
   pip install -r requirements.txt
   ```
 
-4. **In the root directory, create a `.env` file and add your Discord bot token and other necessary environment variables (example provided below):**
-  ```
-  DISCORD_TOKEN=your-bot-token-here
-  ```
+4. **In the bot directory, rename the `.envexample` file to `.env` and add your Discord bot token and other necessary environment variables:**
 
 5. **Run the bot (Ensure you have ACTIVATED the Virtual Environment if you did Step 2):**
   ```
