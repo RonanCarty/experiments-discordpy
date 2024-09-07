@@ -8,7 +8,6 @@ Welcome to the **Experiments Discord Bot** project! This bot, named "Experiments
 - [Features](#features)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -54,10 +53,6 @@ To get the bot up and running on your own machine, follow these steps:
 ## Usage
 
 This bot is intended for experimentation and testing. You can modify the code to add new commands, events, or integrations. Check the `main.py` file and other files in the repository to see how existing features are implemented.
-
-## Contributing
-
-Contributions to this project are welcome! If you have an idea for a new feature or improvement, feel free to fork the repository and submit a pull request. Please ensure that your contributions align with the experimental nature of this project.
 
 ## License
 
