@@ -47,7 +47,7 @@ To get the bot up and running on your own machine, follow these steps:
   ```
 5. **Run the bot:**
   ```
-  python bot.py
+  python bot/main.py
   ```
 
 ## Usage
