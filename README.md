@@ -33,9 +33,17 @@ To get the bot up and running on your own machine, follow these steps:
   cd experiments-discordpy
   ```
 2. **Create and Activate a Virtual Environment (optional but recommended):**
+  **Create Virtual Environment (Windows/Linux/MacOS):**
   ```
   python3 -m venv venv
+  ```
+  **Activate Virtual Environment (Linux/MacOS):**
+  ```
   source venv/bin/activate
+  ```
+  **Activate Virtual Environment (Windows):**
+  ```
+  venv\Scripts\activate
   ```
 3. **Install Dependencies:**
   ```
@@ -45,7 +53,7 @@ To get the bot up and running on your own machine, follow these steps:
   ```
   DISCORD_TOKEN=your-bot-token-here
   ```
-5. **Run the bot:**
+5. **Run the bot (Ensure you have ACTIVATED the Virtual Environment):**
   ```
   python bot/main.py
   ```
