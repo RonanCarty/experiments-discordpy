@@ -14,6 +14,7 @@ The bot is currently equipped with a range of features which you can use to help
 
 * Syncing the Application Commands Globally
 * Checking Latency
+* Link Shortening
 
 These features are constantly evolving as new experiments and tests are conducted.
 
